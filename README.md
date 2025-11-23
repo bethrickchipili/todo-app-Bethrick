@@ -1,4 +1,4 @@
-HOW TO RUN THE APP
+HOW TO RUN THE APP  
 Step One: Make sure you have an IDE and necessary extentions(if needed) installed
 
 Step Two: Open the App in the IDE
