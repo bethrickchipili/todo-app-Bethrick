@@ -32,3 +32,7 @@ Future improvements:
 2. Adding a search functionality
 3. Implement categories
 
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/95ad2ceb-ca49-498a-b4e8-a417ed8568b8" />
+
+
+
