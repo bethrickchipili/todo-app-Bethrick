@@ -37,7 +37,7 @@ class Todolist{
 
                 if(pos1 != string::npos && pos2 !=string ::npos){
                     Task task;
-                    task.id = std::stoi(line.substr(0,pos1));
+                    task.id = stoi(line.substr(0,pos1));
                     task.description = line.substr(pos1 + 1, pos2 - pos1 - 1);
                     task.completed = stoi(line.substr(pos2 + 1));
                     tasks.push_back(task);
@@ -165,3 +165,4 @@ int main(){
     return 0;
 
 }
+
