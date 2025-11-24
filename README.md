@@ -32,6 +32,9 @@ Future improvements:
 2. Adding a search functionality
 3. Implement categories
 
+   ![A screenshot of the application](https://github.com/bethrickchipili/todo-app-Bethrick/blob/main/Screenshot%201.png)
+   
+
 
 
 
